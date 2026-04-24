@@ -2,7 +2,7 @@
 
 **Technical Lead @ Apptware** · Frontend Architect · Pune, India
 
-I build high-scale frontend systems for products used by millions. Currently leading frontend architecture across cybersecurity, fintech, healthtech, and proptech (property tech) — including platforms trusted by companies like Drata, Secureframe, Razorpay, ShareChat, and MoEngage.
+I build high-scale frontend systems for products used by millions. Recently led frontend architecture across cybersecurity, fintech, healthtech, and proptech (property tech) — including platforms trusted by companies like Drata, Secureframe, Razorpay, ShareChat, and MoEngage.
 
 Previously shipped crew-scheduling systems for JetBlue at TCS under FAA Part 121 regulations.
 
