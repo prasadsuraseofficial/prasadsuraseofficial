@@ -6,7 +6,7 @@ I build high-scale frontend systems for products used by millions. Recently led 
 
 Previously shipped crew-scheduling systems for JetBlue at TCS under FAA Part 121 regulations.
 
-### What I'm working on
+### What I'm working/worked on
 
 - 🏗️ **Architecting** Nx monorepo setups, headless Chrome PDF pipelines, and SSR-powered SEO systems
 - 🔒 **Building** cloud-agnostic security analytics dashboards with 20+ connector integrations
@@ -17,7 +17,7 @@ Previously shipped crew-scheduling systems for JetBlue at TCS under FAA Part 121
 
 **Core:** TypeScript · React · Next.js · Redux Toolkit  
 **Architecture:** Nx Monorepos · Module Federation · SSR/SSG  
-**Styling:** Tailwind CSS · Styled Components · Storybook  
+**Styling:** Tailwind CSS · Styled Components  
 **Tools:** Git · GitHub Actions · Docker · Vercel · Netlify  
 **Testing:** Jest · React Testing Library · Cypress  
 **Other:** Node.js · Express · REST APIs · WebSockets
